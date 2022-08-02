@@ -1,7 +1,5 @@
-# Trails
-Hashtag RV Life
-
-Documenting everything that is going on here.
+# California Coastal Trail
+This is the README for documenting and showcasing the California Coastal Trail, bringing more attention to the trail, the benefits of walking, and the communities along the coast of California. #RVLife
 
 **Trips:**
 
