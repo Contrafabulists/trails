@@ -4,9 +4,7 @@ highlighter: rouge
 
 # Site settings
 title: "Contrafabulists Trails"
-description: > # this means to ignore newlines until "email:"
-   All about the California Coastal Trail
-
+description: All about the California Coastal Trail
 email: info@contrafabulists.com
 #blog logo
 logo: "/assets/images/cog.jpg"
@@ -15,7 +13,7 @@ logo2: "/assets/images/cog_tr.png"
 cover: "/photos/trail.jpeg"
 covercredits: "http://bryanmmathers.com"
 
-name: 'Contrafabulists'
+name: 'Contrafabulists Trails'
 
 author_aud: 'Audrey Watters'
 author_image: "/assets/images/author_aw.jpg"
@@ -28,7 +26,7 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title
 
-url: "http://contrafabulists.com" # the base hostname & protocol for your site
+url: "http://site.contrafabulists.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle:
