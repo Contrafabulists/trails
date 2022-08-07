@@ -11,7 +11,7 @@ This is the README for documenting and showcasing the California Coastal Trail, 
 
 - [California Coastal Comission](https://www.coastal.ca.gov/) - The Commission is committed to protecting and enhancing California’s coast and ocean for present and future generations. It does so through careful planning and regulation of environmentally-sustainable development, rigorous use of science, strong public participation, education, and effective intergovernmental coordination.
 - [California Coastal Comission API](https://www.coastal.ca.gov/open-data/api-docs/#:~:text=The%20Coastal%20Cleanup%20Day%20Locations,information%20and%20what%20to%20bring.) - Access locations, cleanup day locations, meeting agendas, sea level rise vulnerabilities, and critical coastal areas map viewer.
-- [California Coastral Trail](https://www.coastal.ca.gov/access/ca-coastal-trail/coastal-trail.pdf) - Of the 1230 miles of coastline, there are about 875 miles of CCT completed.
+- [California Coastal Trail](https://www.coastal.ca.gov/access/ca-coastal-trail/coastal-trail.pdf) - Of the 1230 miles of coastline, there are about 875 miles of CCT completed.
 - [California Coastal Trail Map](https://the-california-coastal-trail-1-coastalcomm.hub.arcgis.com/) 
 - [California Coast Trail Postman Workspace](https://www.postman.com/api-evangelist/workspace/california-coastal-commission/documentation/35240-8caffe45-b0ba-49d6-b5fa-05fef6311580)
 - [Abandoned Rails](https://www.abandonedrails.com/) - Featuring thousands of miles of abandoned railroad routes in North America, illustrated with maps, pictures, and history.
