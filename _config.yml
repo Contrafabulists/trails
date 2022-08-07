@@ -3,16 +3,16 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Contrafabulists"
+title: "Contrafabulists Trails"
 description: > # this means to ignore newlines until "email:"
-   A Hack Education & API Evangelist Production
+   All about the California Coastal Trail
 
 email: info@contrafabulists.com
 #blog logo
 logo: "/assets/images/cog.jpg"
 logo2: "/assets/images/cog_tr.png"
 # blog cover
-cover: "/assets/images/owl.jpg"
+cover: "/photos/trail.jpeg"
 covercredits: "http://bryanmmathers.com"
 
 name: 'Contrafabulists'
